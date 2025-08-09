@@ -37,8 +37,8 @@ import {
 // ✅ Sidebar data structure
 const data = {
   user: {
-    name: "Ganapathi",
-    email: "radha@myheart.com",
+    name: "Forever Yours ❤️",
+    email: "In Silence, Loving Radha",
     avatar: "/avatars/shadcn.jpg",
   },
   navMain: [

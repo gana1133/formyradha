@@ -31,7 +31,7 @@ export function NavMain({
             className="bg-primary text-primary-foreground hover:bg-primary/90 hover:text-primary-foreground active:bg-primary/90 active:text-primary-foreground flex items-center gap-2 px-3 py-2 rounded-md"
           >
             <IconMoodSmile className="w-4 h-4" />
-            <span className="text-sm">plz Smile</span>
+            <span className="text-sm">Please Smile</span>
           </SidebarMenuButton>
 
           {/* 🌸 For Her Smile */}
