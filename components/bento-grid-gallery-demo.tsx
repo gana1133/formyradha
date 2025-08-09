@@ -54,7 +54,7 @@ const mediaItems = [
   {
     id: 7,
     type: "video",
-    title: "For My Radha — In Shiva’s Blessings",
+    title: "For My Radha — Shiva’s Blessings",
   desc: "A serene moment under Mahadev’s grace, dedicated to you ❤️",
     url: "https://cdn.pixabay.com/video/2020/05/25/40130-424930032_large.mp4",
     span: "md:col-span-1 md:row-span-3 sm:col-span-1 sm:row-span-2 ",
@@ -66,7 +66,7 @@ export function BentoGridGalleryDemo() {
     <div className="min-h-screen overflow-y-auto">
       <InteractiveBentoGallery
         mediaItems={mediaItems}
-        title="Radha’s Eternal Gallery"
+        title="Radha’s Eternall Gallery"
         description="Every frame, a prayer… every moment, a piece of my heart."
       />
     </div>
